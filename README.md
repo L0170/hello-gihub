@@ -1,2 +1,2 @@
-# hello-gihub
+# hello-github
 first github repository
